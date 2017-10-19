@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "D:\\android\\zhy_gestureLockView1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 50,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 49,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 50,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 62,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 63,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 62,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 63,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 41,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 42,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 44,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\attr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 45,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 57,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 55,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 52,
+                    "endOffset": 791
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 52,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 796,
+                    "endColumn": 56,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 56,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 52,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 52,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "D:\\android\\zhy_gestureLockView1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
